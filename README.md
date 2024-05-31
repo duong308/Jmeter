@@ -56,3 +56,6 @@ Aggregate Report
 
 Trang web https://phenikaa-uni.edu.vn/vi có hiệu năng tốt. Số lượng yêu cầu thành công cao (97,1%), số lượng yêu cầu thất bại rất thấp (0,29%). Thời gian phản hồi trung bình, trung vị và percentil 90 đều ở mức thấp (dưới 100 ms). Chuyển tải của trang web cũng khá cao (16 yêu cầu/giây).
 
+6.Hình ảnh tổng quát
+
+![j1](https://github.com/duong308/Jmeter/assets/96821677/dca2e850-b00d-4d3b-814f-567448f2fe10)
