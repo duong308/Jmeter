@@ -14,9 +14,9 @@
 
 -Thread Group:
 
-Số lượng thread: 100
+Số lượng thread: 1000
 
-Thời gian chạy: 60 giây
+Thời gian chạy: 23 giây
 
 Ramp-up period: 10 giây
 
@@ -35,3 +35,24 @@ View Results Tree
 Aggregate Report
 
 3.Kết quả kiểm tra:
+
+![j2](https://github.com/duong308/Jmeter/assets/96821677/b126d0cc-1bdd-439a-a14f-5baca9688b13)
+
+4.Phân tích kết quả kiểm tra:
+
+-Số lượng yêu cầu thành công: 97,1%
+
+-Số lượng yêu cầu thất bại: 2,9%
+
+-Thời gian phản hồi trung bình: 14,64 ms
+
+-Thời gian phản hồi trung vị: 15,03 ms
+
+-Thời gian phản hồi percentil 90: 70 ms
+
+-Chuyển tải: 16 yêu cầu/giây
+
+5.Kết luận:
+
+Trang web https://phenikaa-uni.edu.vn/vi có hiệu năng tốt. Số lượng yêu cầu thành công cao (97,1%), số lượng yêu cầu thất bại rất thấp (0,29%). Thời gian phản hồi trung bình, trung vị và percentil 90 đều ở mức thấp (dưới 100 ms). Chuyển tải của trang web cũng khá cao (16 yêu cầu/giây).
+
